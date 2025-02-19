@@ -1,0 +1,26 @@
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex{
+  display: flex;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.alin{
+  align-items: center;
+}
+.gap{
+  gap: 50px;
+}
+.gap2{
+  gap: 20px;
+}
+.pdin-left{
+  padding-left: 30px;
+}
+.pdin-left2{
+  padding-left: 100px;
+}

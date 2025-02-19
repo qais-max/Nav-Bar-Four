@@ -1,0 +1,43 @@
+@import url("utility.css");
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ /* outline:1px solid red ;*/
+}
+html{
+  font-size: 62.5%;
+
+}
+body{
+  font-size: 1.6rem;
+}
+nav a{
+  text-decoration: none;
+  color: rgba(0, 0, 0)
+  
+}
+nav a:hover{
+  color: rgb(129, 57, 114);
+}
+button a {
+  color: white;
+}
+nav li{
+  list-style:none ;
+}
+button{
+  padding: 18px 32px 18px 32px;
+  border: none;
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0);
+  
+  color: white;
+}
+button:hover{
+  opacity: 0.6;
+}
+@media screen and(max-width: 900px) {
+
+}
+  
