@@ -31,13 +31,30 @@ button{
   border: none;
   border-radius: 30px;
   background-color: rgba(0, 0, 0);
-  
   color: white;
 }
 button:hover{
   opacity: 0.6;
 }
-@media screen and(max-width: 900px) {
+.Hamburger{
+  height: 2.8rem;
+  width:2.4rem
+}
+.bars{
+  background: black;
+  height: 0.7rem;
 
+}
+@media screen and (max-width: 900px) {
+.res-block{
+  display: block;
+  
+}
+.res-hidden{
+  display: none;
+}
+.res-flex-col{
+  flex-direction: column;
+}
 }
   

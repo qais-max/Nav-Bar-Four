@@ -19,8 +19,11 @@
   gap: 20px;
 }
 .pdin-left{
-  padding-left: 30px;
+  padding-left: 20px;
 }
 .pdin-left2{
   padding-left: 100px;
+}
+.hidden{
+  display: none;
 }
